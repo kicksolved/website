@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://kicksolved.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/addproblem/addproblem/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/login/register/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/wifi/prob-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/solution/wifi/sol-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/wifi/prob-2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/wifi/prob-3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/wifi/prob-4/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/wifi/prob-5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/wifi/prob-6/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/wifi/prob-7/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/wifi/prob-8/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/wifi/prob-9/</loc>
+  </url>
+  
+</urlset>
