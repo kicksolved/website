@@ -3,7 +3,18 @@
   
   <url>
     <loc>http://kicksolved.com/</loc>
+    <lastmod>2016-01-12T04:45:18+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/fridge/prob-1/</loc>
+    <lastmod>2016-01-12T04:45:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/energymeter/prob-1/</loc>
+    <lastmod>2016-01-12T04:23:01+02:00</lastmod>
   </url>
   
   <url>
@@ -24,34 +35,6 @@
   
   <url>
     <loc>http://kicksolved.com/problem/wifi/prob-2/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/wifi/prob-3/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/wifi/prob-4/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/wifi/prob-5/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/wifi/prob-6/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/wifi/prob-7/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/wifi/prob-8/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/wifi/prob-9/</loc>
   </url>
   
 </urlset>
