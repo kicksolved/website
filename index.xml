@@ -6,8 +6,58 @@
     <description>Recent content on KickSolved - Pre-Order App Solutions to Daily Problems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jan 2016 07:36:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jan 2016 11:01:56 +0200</lastBuildDate>
     <atom:link href="http://kicksolved.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alert Your Mobile</title>
+      <link>http://kicksolved.com/solution/fridge/sol-1/</link>
+      <pubDate>Tue, 12 Jan 2016 11:01:56 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/fridge/sol-1/</guid>
+      <description>&lt;p&gt;If the temperature is getting too high, e.g. fridge broke or fire in the kitchen, then you get an alert on your mobile. If the connectivity with the fridge is lost you get an alert.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>At night fridge is locked.</title>
+      <link>http://kicksolved.com/solution/fridge/sol-3/</link>
+      <pubDate>Tue, 12 Jan 2016 11:01:56 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/fridge/sol-3/</guid>
+      <description>&lt;p&gt;To open your fridge at night you have to stand on your bluetooth enabled scale. Only afterwards will the smart lock on the fridge be opened.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>At night fridge is locked.</title>
+      <link>http://kicksolved.com/solution/fridge/sol-4/</link>
+      <pubDate>Tue, 12 Jan 2016 11:01:56 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/fridge/sol-4/</guid>
+      <description>&lt;p&gt;When you open your fridge at night all your Facebook Friends, your Weightwatchers LinkedIn group and Twitter will know.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scan and reorder</title>
+      <link>http://kicksolved.com/solution/fridge/sol-2/</link>
+      <pubDate>Tue, 12 Jan 2016 11:01:56 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/fridge/sol-2/</guid>
+      <description>&lt;p&gt;Scan all the products you need and automatically reorder what you need from sites like Amazon Fresh. Your bluetooth scanners talks to the fridge. Optionally you can let different supermarkets fight for who can deliver cheapest.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smart Energy Meter with Usage Tracking</title>
+      <link>http://kicksolved.com/solution/energymeter/sol-1/</link>
+      <pubDate>Tue, 12 Jan 2016 11:01:49 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/energymeter/sol-1/</guid>
+      <description>&lt;p&gt;Via a smart energy meter and detection of the devices that get switched on, it would be possible to check usage via a mobile app.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Configuring Webcam is Hard</title>
@@ -25,17 +75,27 @@
       <pubDate>Tue, 12 Jan 2016 07:36:12 +0200</pubDate>
       
       <guid>http://kicksolved.com/problem/washer/prob-1/</guid>
-      <description>&lt;p&gt;Doing the washing should not be hard. Different family members have different skill sets when it comes to selecting the washing programme.&lt;/p&gt;
+      <description>&lt;p&gt;Doing the washing should not be hard. Different family members have different skill sets when it comes to selecting the correct washing programme.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Why do I need a separate key pad?</title>
+      <title>Why a separate key pad?</title>
       <link>http://kicksolved.com/problem/homealarm/prob-1/</link>
       <pubDate>Tue, 12 Jan 2016 07:36:03 +0200</pubDate>
       
       <guid>http://kicksolved.com/problem/homealarm/prob-1/</guid>
-      <description>&lt;p&gt;Always changing batteries. Drilling walls.&lt;/p&gt;
+      <description>&lt;p&gt;Always changing batteries! Drilling walls! Difficult codes to remember?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A family member eats when nobody sees it?</title>
+      <link>http://kicksolved.com/problem/fridge/prob-3/</link>
+      <pubDate>Tue, 12 Jan 2016 04:45:18 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/problem/fridge/prob-3/</guid>
+      <description>&lt;p&gt;Sneaky snacker at home? Can&amp;rsquo;t control them?&lt;/p&gt;
 </description>
     </item>
     
@@ -46,6 +106,16 @@
       
       <guid>http://kicksolved.com/problem/fridge/prob-1/</guid>
       <description>&lt;p&gt;Why is it that your fridge always has a problem when you are on holiday?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ordering groceries takes time</title>
+      <link>http://kicksolved.com/problem/fridge/prob-2/</link>
+      <pubDate>Tue, 12 Jan 2016 04:45:18 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/problem/fridge/prob-2/</guid>
+      <description>&lt;p&gt;It takes lots of time to order groceries. Make list. Go to shop.&lt;/p&gt;
 </description>
     </item>
     
@@ -78,35 +148,12 @@
     </item>
     
     <item>
-      <title>Children &amp; Internet</title>
-      <link>http://kicksolved.com/problem/wifi/prob-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Automatically Find Webcams</title>
+      <link>http://kicksolved.com/solution/webcam/sol-1/</link>
+      <pubDate>Tue, 12 Jan 2016 11:03:28 +0200</pubDate>
       
-      <guid>http://kicksolved.com/problem/wifi/prob-1/</guid>
-      <description>&lt;p&gt;Pre-teens wasting time online. Parents can not restrict the time spend on games, Netflix,&amp;hellip;&lt;br/&gt;
-Allow homework friendly sites all day.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Children &amp; Internet</title>
-      <link>http://kicksolved.com/solution/wifi/sol-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kicksolved.com/solution/wifi/sol-1/</guid>
-      <description>&lt;p&gt;Pre-teens wasting time online. Parents can not restrict the time spend on games, Netflix,&amp;hellip;&lt;br/&gt;
-Allow homework friendly sites all day.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What is the WiFi password?</title>
-      <link>http://kicksolved.com/problem/wifi/prob-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kicksolved.com/problem/wifi/prob-2/</guid>
-      <description>&lt;p&gt;Guests arriving to your home ask the question all the time.&lt;br/&gt;
-There must be a better way than turning your WiFi upside down&amp;hellip;&lt;/p&gt;
+      <guid>http://kicksolved.com/solution/webcam/sol-1/</guid>
+      <description>&lt;p&gt;Automatically find webcams from your mobile and easily set them up. No need to answer any network questions.&lt;/p&gt;
 </description>
     </item>
     

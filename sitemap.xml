@@ -3,8 +3,33 @@
   
   <url>
     <loc>http://kicksolved.com/</loc>
-    <lastmod>2016-01-12T07:36:24+02:00</lastmod>
+    <lastmod>2016-01-12T11:01:56+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/solution/fridge/sol-1/</loc>
+    <lastmod>2016-01-12T11:01:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/solution/fridge/sol-3/</loc>
+    <lastmod>2016-01-12T11:01:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/solution/fridge/sol-4/</loc>
+    <lastmod>2016-01-12T11:01:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/solution/fridge/sol-2/</loc>
+    <lastmod>2016-01-12T11:01:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/solution/energymeter/sol-1/</loc>
+    <lastmod>2016-01-12T11:01:49+02:00</lastmod>
   </url>
   
   <url>
@@ -23,7 +48,17 @@
   </url>
   
   <url>
+    <loc>http://kicksolved.com/problem/fridge/prob-3/</loc>
+    <lastmod>2016-01-12T04:45:18+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kicksolved.com/problem/fridge/prob-1/</loc>
+    <lastmod>2016-01-12T04:45:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/fridge/prob-2/</loc>
     <lastmod>2016-01-12T04:45:18+02:00</lastmod>
   </url>
   
@@ -41,11 +76,30 @@
   </url>
   
   <url>
+    <loc>http://kicksolved.com/solution/webcam/sol-1/</loc>
+    <lastmod>2016-01-12T11:03:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/solution/washer/sol-1/</loc>
+    <lastmod>2016-01-12T11:03:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/solution/homealarm/sol-1/</loc>
+    <lastmod>2016-01-12T11:03:13+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kicksolved.com/problem/wifi/prob-1/</loc>
   </url>
   
   <url>
     <loc>http://kicksolved.com/solution/wifi/sol-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/solution/wifi/sol-2/</loc>
   </url>
   
   <url>

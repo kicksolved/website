@@ -6,7 +6,88 @@
     <description>Recent content in Solutions on KickSolved - Pre-Order App Solutions to Daily Problems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jan 2016 11:01:56 +0200</lastBuildDate>
     <atom:link href="http://kicksolved.com/solution/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alert Your Mobile</title>
+      <link>http://kicksolved.com/solution/fridge/sol-1/</link>
+      <pubDate>Tue, 12 Jan 2016 11:01:56 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/fridge/sol-1/</guid>
+      <description>&lt;p&gt;If the temperature is getting too high, e.g. fridge broke or fire in the kitchen, then you get an alert on your mobile. If the connectivity with the fridge is lost you get an alert.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>At night fridge is locked.</title>
+      <link>http://kicksolved.com/solution/fridge/sol-3/</link>
+      <pubDate>Tue, 12 Jan 2016 11:01:56 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/fridge/sol-3/</guid>
+      <description>&lt;p&gt;To open your fridge at night you have to stand on your bluetooth enabled scale. Only afterwards will the smart lock on the fridge be opened.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>At night fridge is locked.</title>
+      <link>http://kicksolved.com/solution/fridge/sol-4/</link>
+      <pubDate>Tue, 12 Jan 2016 11:01:56 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/fridge/sol-4/</guid>
+      <description>&lt;p&gt;When you open your fridge at night all your Facebook Friends, your Weightwatchers LinkedIn group and Twitter will know.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scan and reorder</title>
+      <link>http://kicksolved.com/solution/fridge/sol-2/</link>
+      <pubDate>Tue, 12 Jan 2016 11:01:56 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/fridge/sol-2/</guid>
+      <description>&lt;p&gt;Scan all the products you need and automatically reorder what you need from sites like Amazon Fresh. Your bluetooth scanners talks to the fridge. Optionally you can let different supermarkets fight for who can deliver cheapest.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smart Energy Meter with Usage Tracking</title>
+      <link>http://kicksolved.com/solution/energymeter/sol-1/</link>
+      <pubDate>Tue, 12 Jan 2016 11:01:49 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/energymeter/sol-1/</guid>
+      <description>&lt;p&gt;Via a smart energy meter and detection of the devices that get switched on, it would be possible to check usage via a mobile app.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatically Find Webcams</title>
+      <link>http://kicksolved.com/solution/webcam/sol-1/</link>
+      <pubDate>Tue, 12 Jan 2016 11:03:28 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/webcam/sol-1/</guid>
+      <description>&lt;p&gt;Automatically find webcams from your mobile and easily set them up. No need to answer any network questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Control via your Mobile</title>
+      <link>http://kicksolved.com/solution/washer/sol-1/</link>
+      <pubDate>Tue, 12 Jan 2016 11:03:21 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/washer/sol-1/</guid>
+      <description>&lt;p&gt;Use a mobile app to control your washing machine. Each member of the family can have a personalised experience. The washing programmes you normally use are automatically suggested. If you need help with instructions on some type of cloths, just scan the label. Optionally your washer can have the app also embedded in a touchscreen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>No more keypads</title>
+      <link>http://kicksolved.com/solution/homealarm/sol-1/</link>
+      <pubDate>Tue, 12 Jan 2016 11:03:13 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/homealarm/sol-1/</guid>
+      <description>&lt;p&gt;Use your mobile to unlock the alarm and just use a pattern. No need for difficult codes to remember. No need for putting extra keypads. If you have any smart device with a touchscreen, e.g. fridge, washing machine,&amp;hellip;, then you can also switch off the alarm from there.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Children &amp; Internet</title>
@@ -16,6 +97,16 @@
       <guid>http://kicksolved.com/solution/wifi/sol-1/</guid>
       <description>&lt;p&gt;Pre-teens wasting time online. Parents can not restrict the time spend on games, Netflix,&amp;hellip;&lt;br/&gt;
 Allow homework friendly sites all day.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Your Friends Login With Facebook</title>
+      <link>http://kicksolved.com/solution/wifi/sol-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kicksolved.com/solution/wifi/sol-2/</guid>
+      <description>&lt;p&gt;Your friends can just use their Facebook credentials to log into your WiFi. If they are befriended with you then they will have WiFi access in your home.&lt;/p&gt;
 </description>
     </item>
     
