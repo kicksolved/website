@@ -70,46 +70,6 @@
     </item>
     
     <item>
-      <title>Configuring Webcam is Hard</title>
-      <link>http://kicksolved.com/problem/webcam/prob-1/</link>
-      <pubDate>Tue, 12 Jan 2016 07:36:24 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/webcam/prob-1/</guid>
-      <description>&lt;p&gt;The Webcam admin pages are for experts only.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>You need a PhD</title>
-      <link>http://kicksolved.com/problem/washer/prob-1/</link>
-      <pubDate>Tue, 12 Jan 2016 07:36:12 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/washer/prob-1/</guid>
-      <description>&lt;p&gt;Doing the washing should not be hard. Different family members have different skill sets when it comes to selecting the correct washing programme.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Problem: Generating New Revenue</title>
-      <link>http://kicksolved.com/problem/hwbd/prob-1/</link>
-      <pubDate>Tue, 12 Jan 2016 07:36:03 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/hwbd/prob-1/</guid>
-      <description>&lt;p&gt;Hardware &amp;amp; services margins are disappearing. Customers are lost regarding Cloud, Big Data, AI, BlockChain, etc. Keeping up with innovation is hard work. Get behind and risk that Google and co. disrupt your business. Many IT solutions but few paying customer problems. Generating new revenues is your top problem.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why a separate key pad?</title>
-      <link>http://kicksolved.com/problem/homealarm/prob-1/</link>
-      <pubDate>Tue, 12 Jan 2016 07:36:03 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/homealarm/prob-1/</guid>
-      <description>&lt;p&gt;Always changing batteries! Drilling walls! Difficult codes to remember?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A family member eats when nobody sees it?</title>
       <link>http://kicksolved.com/problem/fridge/prob-3/</link>
       <pubDate>Tue, 12 Jan 2016 04:45:18 +0200</pubDate>
@@ -120,42 +80,83 @@
     </item>
     
     <item>
-      <title>Fridge Without Electricity?</title>
-      <link>http://kicksolved.com/problem/fridge/prob-1/</link>
-      <pubDate>Tue, 12 Jan 2016 04:45:18 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/fridge/prob-1/</guid>
-      <description>&lt;p&gt;Why is it that your fridge always has a problem when you are on holiday?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ordering groceries takes time</title>
-      <link>http://kicksolved.com/problem/fridge/prob-2/</link>
-      <pubDate>Tue, 12 Jan 2016 04:45:18 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/fridge/prob-2/</guid>
-      <description>&lt;p&gt;It takes lots of time to order groceries. Make list. Go to shop.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Useless Electric Meter?</title>
-      <link>http://kicksolved.com/problem/energymeter/prob-1/</link>
-      <pubDate>Tue, 12 Jan 2016 04:23:01 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/energymeter/prob-1/</guid>
-      <description>&lt;p&gt;Is your Electric Meter just showing one overall number? You want to safe energy but don&amp;rsquo;t know how?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>http://kicksolved.com/addproblem/addproblem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kicksolved.com/addproblem/addproblem/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://kicksolved.com/login/register/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kicksolved.com/login/register/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children &amp; Internet</title>
+      <link>http://kicksolved.com/problem/wifi/prob-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kicksolved.com/problem/wifi/prob-1/</guid>
+      <description>&lt;p&gt;Pre-teens wasting time online. Parents can not restrict the time spend on games, Netflix,&amp;hellip;&lt;br/&gt;
+Allow homework friendly sites all day.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>We are currently still under construction</title>
+      <link>http://kicksolved.com/preorder/beta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kicksolved.com/preorder/beta/</guid>
+      <description>&lt;p&gt;Thank you very much for showing interest in KickSolved. We are currently still under construction. If you are interested in knowing more, please fill out the form below. We will get back to you as soon as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is the WiFi password?</title>
+      <link>http://kicksolved.com/problem/wifi/prob-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kicksolved.com/problem/wifi/prob-2/</guid>
+      <description>&lt;p&gt;Guests arriving to your home ask the question all the time.&lt;br/&gt;
+There must be a better way than turning your WiFi upside down and copying that horrible long list of characters&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatically Find Webcams</title>
+      <link>http://kicksolved.com/solution/webcam/sol-1/</link>
+      <pubDate>Tue, 12 Jan 2016 11:03:28 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/webcam/sol-1/</guid>
+      <description>&lt;p&gt;Automatically find webcams from your mobile and easily set them up. No need to answer any network questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Control via your Mobile</title>
+      <link>http://kicksolved.com/solution/washer/sol-1/</link>
+      <pubDate>Tue, 12 Jan 2016 11:03:21 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/washer/sol-1/</guid>
+      <description>&lt;p&gt;Use a mobile app to control your washing machine. Each member of the family can have a personalised experience. The washing programmes you normally use are automatically suggested. If you need help with instructions on some type of cloths, just scan the label. Optionally your washer can have the app also embedded in a touchscreen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>No more keypads</title>
+      <link>http://kicksolved.com/solution/homealarm/sol-1/</link>
+      <pubDate>Tue, 12 Jan 2016 11:03:13 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/solution/homealarm/sol-1/</guid>
+      <description>&lt;p&gt;Use your mobile to unlock the alarm and just use a pattern. No need for difficult codes to remember. No need for putting extra keypads. If you have any smart device with a touchscreen, e.g. fridge, washing machine,&amp;hellip;, then you can also switch off the alarm from there.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

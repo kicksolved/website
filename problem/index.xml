@@ -6,48 +6,8 @@
     <description>Recent content in Problems on KickSolved - Pre-Order App Solutions to Daily Problems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jan 2016 07:36:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jan 2016 04:45:18 +0200</lastBuildDate>
     <atom:link href="http://kicksolved.com/problem/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Configuring Webcam is Hard</title>
-      <link>http://kicksolved.com/problem/webcam/prob-1/</link>
-      <pubDate>Tue, 12 Jan 2016 07:36:24 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/webcam/prob-1/</guid>
-      <description>&lt;p&gt;The Webcam admin pages are for experts only.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>You need a PhD</title>
-      <link>http://kicksolved.com/problem/washer/prob-1/</link>
-      <pubDate>Tue, 12 Jan 2016 07:36:12 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/washer/prob-1/</guid>
-      <description>&lt;p&gt;Doing the washing should not be hard. Different family members have different skill sets when it comes to selecting the correct washing programme.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Problem: Generating New Revenue</title>
-      <link>http://kicksolved.com/problem/hwbd/prob-1/</link>
-      <pubDate>Tue, 12 Jan 2016 07:36:03 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/hwbd/prob-1/</guid>
-      <description>&lt;p&gt;Hardware &amp;amp; services margins are disappearing. Customers are lost regarding Cloud, Big Data, AI, BlockChain, etc. Keeping up with innovation is hard work. Get behind and risk that Google and co. disrupt your business. Many IT solutions but few paying customer problems. Generating new revenues is your top problem.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why a separate key pad?</title>
-      <link>http://kicksolved.com/problem/homealarm/prob-1/</link>
-      <pubDate>Tue, 12 Jan 2016 07:36:03 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/homealarm/prob-1/</guid>
-      <description>&lt;p&gt;Always changing batteries! Drilling walls! Difficult codes to remember?&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>A family member eats when nobody sees it?</title>
@@ -56,36 +16,6 @@
       
       <guid>http://kicksolved.com/problem/fridge/prob-3/</guid>
       <description>&lt;p&gt;Sneaky snacker at home? Can&amp;rsquo;t control them?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fridge Without Electricity?</title>
-      <link>http://kicksolved.com/problem/fridge/prob-1/</link>
-      <pubDate>Tue, 12 Jan 2016 04:45:18 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/fridge/prob-1/</guid>
-      <description>&lt;p&gt;Why is it that your fridge always has a problem when you are on holiday?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ordering groceries takes time</title>
-      <link>http://kicksolved.com/problem/fridge/prob-2/</link>
-      <pubDate>Tue, 12 Jan 2016 04:45:18 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/fridge/prob-2/</guid>
-      <description>&lt;p&gt;It takes lots of time to order groceries. Make list. Go to shop.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Useless Electric Meter?</title>
-      <link>http://kicksolved.com/problem/energymeter/prob-1/</link>
-      <pubDate>Tue, 12 Jan 2016 04:23:01 +0200</pubDate>
-      
-      <guid>http://kicksolved.com/problem/energymeter/prob-1/</guid>
-      <description>&lt;p&gt;Is your Electric Meter just showing one overall number? You want to safe energy but don&amp;rsquo;t know how?&lt;/p&gt;
 </description>
     </item>
     
@@ -108,6 +38,76 @@ Allow homework friendly sites all day.&lt;/p&gt;
       <guid>http://kicksolved.com/problem/wifi/prob-2/</guid>
       <description>&lt;p&gt;Guests arriving to your home ask the question all the time.&lt;br/&gt;
 There must be a better way than turning your WiFi upside down and copying that horrible long list of characters&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Configuring Webcam is Hard</title>
+      <link>http://kicksolved.com/problem/webcam/prob-1/</link>
+      <pubDate>Tue, 12 Jan 2016 07:36:24 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/problem/webcam/prob-1/</guid>
+      <description>&lt;p&gt;The Webcam admin pages are for experts only.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why a separate key pad?</title>
+      <link>http://kicksolved.com/problem/homealarm/prob-1/</link>
+      <pubDate>Tue, 12 Jan 2016 07:36:03 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/problem/homealarm/prob-1/</guid>
+      <description>&lt;p&gt;Always changing batteries! Drilling walls! Difficult codes to remember?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fridge Without Electricity?</title>
+      <link>http://kicksolved.com/problem/fridge/prob-1/</link>
+      <pubDate>Tue, 12 Jan 2016 04:45:18 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/problem/fridge/prob-1/</guid>
+      <description>&lt;p&gt;Why is it that your fridge always has a problem when you are on holiday?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Useless Electric Meter?</title>
+      <link>http://kicksolved.com/problem/energymeter/prob-1/</link>
+      <pubDate>Tue, 12 Jan 2016 04:23:01 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/problem/energymeter/prob-1/</guid>
+      <description>&lt;p&gt;Is your Electric Meter just showing one overall number? You want to safe energy but don&amp;rsquo;t know how?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>You need a PhD</title>
+      <link>http://kicksolved.com/problem/washer/prob-1/</link>
+      <pubDate>Tue, 12 Jan 2016 07:36:12 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/problem/washer/prob-1/</guid>
+      <description>&lt;p&gt;Doing the washing should not be hard. Different family members have different skill sets when it comes to selecting the correct washing programme.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ordering groceries takes time</title>
+      <link>http://kicksolved.com/problem/fridge/prob-2/</link>
+      <pubDate>Tue, 12 Jan 2016 04:45:18 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/problem/fridge/prob-2/</guid>
+      <description>&lt;p&gt;It takes lots of time to order groceries. Make list. Go to shop.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Problem: Generating New Revenue</title>
+      <link>http://kicksolved.com/problem/hwbd/prob-1/</link>
+      <pubDate>Tue, 12 Jan 2016 07:36:03 +0200</pubDate>
+      
+      <guid>http://kicksolved.com/problem/hwbd/prob-1/</guid>
+      <description>&lt;p&gt;Hardware &amp;amp; services margins are disappearing. Customers are lost regarding Cloud, Big Data, AI, BlockChain, etc. Keeping up with innovation is hard work. Get behind and risk that Google and co. disrupt your business. Many IT solutions but few paying customer problems. Generating new revenues is your top problem.&lt;/p&gt;
 </description>
     </item>
     

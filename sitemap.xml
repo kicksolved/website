@@ -38,43 +38,8 @@
   </url>
   
   <url>
-    <loc>http://kicksolved.com/problem/webcam/prob-1/</loc>
-    <lastmod>2016-01-12T07:36:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/washer/prob-1/</loc>
-    <lastmod>2016-01-12T07:36:12+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/hwbd/prob-1/</loc>
-    <lastmod>2016-01-12T07:36:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/homealarm/prob-1/</loc>
-    <lastmod>2016-01-12T07:36:03+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://kicksolved.com/problem/fridge/prob-3/</loc>
     <lastmod>2016-01-12T04:45:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/fridge/prob-1/</loc>
-    <lastmod>2016-01-12T04:45:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/fridge/prob-2/</loc>
-    <lastmod>2016-01-12T04:45:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kicksolved.com/problem/energymeter/prob-1/</loc>
-    <lastmod>2016-01-12T04:23:01+02:00</lastmod>
   </url>
   
   <url>
@@ -86,7 +51,15 @@
   </url>
   
   <url>
+    <loc>http://kicksolved.com/problem/wifi/prob-1/</loc>
+  </url>
+  
+  <url>
     <loc>http://kicksolved.com/preorder/beta/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/wifi/prob-2/</loc>
   </url>
   
   <url>
@@ -110,10 +83,6 @@
   </url>
   
   <url>
-    <loc>http://kicksolved.com/problem/wifi/prob-1/</loc>
-  </url>
-  
-  <url>
     <loc>http://kicksolved.com/solution/wifi/sol-1/</loc>
   </url>
   
@@ -122,7 +91,38 @@
   </url>
   
   <url>
-    <loc>http://kicksolved.com/problem/wifi/prob-2/</loc>
+    <loc>http://kicksolved.com/problem/webcam/prob-1/</loc>
+    <lastmod>2016-01-12T07:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/homealarm/prob-1/</loc>
+    <lastmod>2016-01-12T07:36:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/fridge/prob-1/</loc>
+    <lastmod>2016-01-12T04:45:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/energymeter/prob-1/</loc>
+    <lastmod>2016-01-12T04:23:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/washer/prob-1/</loc>
+    <lastmod>2016-01-12T07:36:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/fridge/prob-2/</loc>
+    <lastmod>2016-01-12T04:45:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kicksolved.com/problem/hwbd/prob-1/</loc>
+    <lastmod>2016-01-12T07:36:03+02:00</lastmod>
   </url>
   
 </urlset>
