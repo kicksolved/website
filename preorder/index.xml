@@ -9,12 +9,42 @@
     <atom:link href="http://kicksolved.com/preorder/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>We are currently still under construction</title>
-      <link>http://kicksolved.com/preorder/beta/</link>
+      <title>Pre-Order Now!</title>
+      <link>http://kicksolved.com/preorder/10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kicksolved.com/preorder/beta/</guid>
-      <description>&lt;p&gt;Thank you very much for showing interest in KickSolved. We are currently still under construction. If you are interested in knowing more, please fill out the form below. We will get back to you as soon as possible.&lt;/p&gt;
+      <guid>http://kicksolved.com/preorder/10/</guid>
+      <description>&lt;p&gt;Thank you for validating this solved your problem. In order for us to build the solution we need to 3,000 people to pre-order a yearly subscription for $10 in the next 7 days. This is a discount over the monthly $1 subscription because you get 2 months for free. We are currently at 2,653 so we are nearly there.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pre-Order Now!</title>
+      <link>http://kicksolved.com/preorder/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kicksolved.com/preorder/2/</guid>
+      <description>&lt;p&gt;Thank you for validating this solved your problem. In order for us to build the solution we need to 10,000 people to pre-order a yearly subscription for $2 in the next 18 days. This is a discount over the monthly $0.2 subscription because you get 2 months for free. We are currently at 8,653 so we are nearly there.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pre-Order Now!</title>
+      <link>http://kicksolved.com/preorder/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kicksolved.com/preorder/3/</guid>
+      <description>&lt;p&gt;Thank you for validating this solved your problem. In order for us to build the solution we need to 7,500 people to pre-order a yearly subscription for $3 in the next 15 days. This is a discount over the monthly $0.3 subscription because you get 2 months for free. We are currently at 6,653 so we are nearly there.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pre-Order Now!</title>
+      <link>http://kicksolved.com/preorder/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kicksolved.com/preorder/5/</guid>
+      <description>&lt;p&gt;Thank you for validating this solved your problem. In order for us to build the solution we need to 5,000 people to pre-order a yearly subscription for $5 in the next 11 days. This is a discount over the monthly $0.5 subscription because you get 2 months for free. We are currently at 4,653 so we are nearly there.&lt;/p&gt;
 </description>
     </item>
     
